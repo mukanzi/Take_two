@@ -1,0 +1,26 @@
+<style>
+title{font-family: Verdana;}
+
+
+hr{height: 20px;
+  border-style: dotted;
+background-color: #B9B7BD;}
+h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+
+
+h2 { color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
+
+
+.subheader { font-size: 26px; font-weight: 300; color: #ffcc66; margin: 0 0 24px; }
+
+
+p { color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px; }
+
+
+a { color: #0000FF; background: #fff4a3; text-decoration: none; }
+
+
+a:hover { color: #ffcc66 }
+
+h3{color: #c9d0d4; font-family: 'Helvetica Neue', sans-serif; font-size: 28px; font-weight: 100; letter-spacing: 1px; padding: 0 0 20px; border-bottom: double #555;}
+</style>
